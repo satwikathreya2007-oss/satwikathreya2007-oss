@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Satwik 👋
 
-<!--
-**satwikathreya2007-oss/satwikathreya2007-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE (AI & ML) Student
+💻 Learning Data Structures & Algorithms and Machine Learning
+🐍 Working with Python for ML and problem solving
+🚀 Building projects and improving coding skills every day
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+
+* Machine Learning with Python
+* DSA problem solving
+* AI fundamentals
+
+## Goals
+
+* Build useful ML projects
+* Strengthen problem-solving skills
+* Contribute to open source in the future
+
+⭐ Always learning and building.
